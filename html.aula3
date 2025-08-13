@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sobre mim</title>
+</head>
+<body>
+    <h1 style="color:blueviolet;"> Daiane Rodrigues</h1>
+    <p style ="text-align: center;"> Tenho 25 anos, estudante de desenvolvimento de sistemas, tenho uma filha de 1ano e 3meses, amo esporte e me cuidar.<br>
+    Atualmente estou estudando HTML e CSS em desenvolvimento de sistemas e estou amando<br> quero trabalhar como desenvolvedora no futuro.</p>
+
+</body>
+
+    
+    <img src="laptop-5673901_1280.jpg"alt= "sobre mim" width="200"><!DOCTYPE html>
+
+    <ul>
+        <li>treinar</li>
+        <li>series</li>
+        <li>estudar</li>
+    </ul>
+<p> Clique no botão abaixo para ir para meu site favorito</p>
+<a href="https://pixabay.com/pt/photos/computador-port%C3%A1til-5673901/" target"_blank"><button> BOTÃO</button></a>
+</body>
+</html>
